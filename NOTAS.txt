@@ -1,0 +1,12 @@
+INSTALAÇAO
+
+1- composer require laravel/jetstream
+
+2- php artisan jetstream:install livewire --teams
+
+3- instalar as dependencias do node
+
+    npm install && npm run dev
+
+4- 
+
